@@ -8,6 +8,8 @@ import { PricingComponent } from './components/pricing/pricing.component';
 import { TestimonialsComponent } from './components/testimonials/testimonials.component';
 import { GalleryComponent } from './components/gallery/gallery.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
+import { ServicesComponent } from './components/services/services.component';
+import { FooterComponent } from './components/footer/footer.component';
 
 
 @Component({
@@ -15,7 +17,7 @@ import { NavbarComponent } from './components/navbar/navbar.component';
   standalone: true,
   imports: [ CommonModule, RouterOutlet, RouterLink, RouterLinkActive, HeaderComponent, AboutComponent,
     ClientsComponent, PricingComponent, TestimonialsComponent, 
-    GalleryComponent, NavbarComponent, ServiceComponent, FooterComponent],
+    GalleryComponent, NavbarComponent, ServicesComponent, FooterComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
