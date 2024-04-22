@@ -1,4 +1,4 @@
-# Angular17Website
+# Angular17
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.5.
 
@@ -25,3 +25,12 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+Para poder familiarizarnos con el nuevo formato de Angular 17 y el componente standalone, clonamos una pagina.
+
+Link de la Template gratis en html,css:
+https://onepagelove.com/namari
+
+
+Referencia: https://www.youtube.com/watch?v=Lyd9tcttXDA&list=PLY7EDLM5qnl7dcJZj8-g4h9mfvTt3iZuL&index=1
